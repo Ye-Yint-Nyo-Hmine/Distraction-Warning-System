@@ -1,0 +1,11 @@
+# Autonomous Distraction Warning System
+# pip install -r requirements.txt
+
+ultralytics>=8.*
+numpy>=1.18.5
+opencv-contrib-python>=4.8.*
+pillow>=7.1.2
+matplotlib>=3.2.2
+scikit-image==0.19.3
+playsound==1.2.2
+mediapipe
