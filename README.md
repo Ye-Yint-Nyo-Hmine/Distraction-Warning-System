@@ -23,9 +23,9 @@ To start with an environment, I suggest using Conda, [Here](https://docs.conda.i
 
 
 ### Creating environment
-To create an environment, in your terminal, replace the following ```env_name``` with the prefered name:
+To create an environment, in your terminal, replace the following ```env_name``` with the preferred name:
 
-```conda create --name myenv```
+```conda create --name env_name```
 
 
 ### Installing requirements
@@ -43,7 +43,7 @@ The program is still an experiment
 
 
 ## Contact
-Contact me by email: [@yeyinthmine] - feel free to contact me!
+Contact me by email: @yeyinthmine - feel free to contact me!
 
 
 ## License
