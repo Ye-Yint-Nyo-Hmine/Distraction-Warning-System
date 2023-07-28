@@ -20,9 +20,11 @@
 To start with an environment, I suggest using Conda, [Here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) is the link
 ### Creating environment
 To create an environment, in your terminal, replace the following ```env_name``` with the prefered name:
+
 ```conda create --name myenv```
 ### Installing requirements
 After creating an environment, install libraries by going into the cloned folder and open the terminal. Then do the following:
+
 ```pip install -r requirements.txt```
 
 ## Usage
