@@ -6,23 +6,14 @@
 > This groundbreaking program detects distractions in both autonomous and human-driven cars, significantly
 > reducing accidents and resolving this critical issue. 
 
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+<!-- add screenshots later. -->
 
 ## Table of Contents
-* [Technologies Used](#technologies-used)
-* [Features](#features)
-* [Screenshots](#screenshots)
 * [Setup](#setup)
 * [Usage](#usage)
-* [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-* [Acknowledgements](#acknowledgements)
+* [Librarise Used](#libraries-used)
 * [Contact](#contact)
-<!-- * [License](#license) -->
-
-
-## Libraries Used
-[Libraries Used](https://github.com/Ye-Yint-Nyo-Hmine/Distraction-Warning-System/blob/main/Prereqs/requirements.txt)
+* [License](#license)
 
 ## Setup
 ### Installing environment
@@ -36,6 +27,9 @@ After creating an environment, install libraries by going into the cloned folder
 
 ## Usage
 The program is still an experiment
+
+## Libraries Used
+[Libraries Used](https://github.com/Ye-Yint-Nyo-Hmine/Distraction-Warning-System/blob/main/Prereqs/requirements.txt)
 
 ## Contact
 Contact me by email: [@yeyinthmine](yeyintnyohmine@gmail.com) - feel free to contact me!
