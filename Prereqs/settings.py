@@ -23,7 +23,7 @@ SOFTWARE.
 """
 
 setting = {
-    "version": "1.4.0.beta",
-    "github": "https://github.com/Ye-Yint-Nyo-Hmine/Distraction-Detection-Model-Beta",
+    "version": "1.4.3.beta",
+    "github": "https://github.com/Ye-Yint-Nyo-Hmine/Distraction-Warning-System",
     "author": "https://github.com/Ye-Yint-Nyo-Hmine",
 }
