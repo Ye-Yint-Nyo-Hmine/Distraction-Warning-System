@@ -17,6 +17,7 @@
 
 
 ## Setup
+#For more info: [https://richardyeyint.webador.com/projects/autonomous-distraction-detection-system](https://richardyeyint.webador.com/projects/1417387_autonomous-distraction-detection-system)
 
 ### Installing environment
 To start with an environment, I suggest using Conda, [Here](https://docs.conda.io/projects/conda/en/latest/user-guide/install/windows.html) is the link
