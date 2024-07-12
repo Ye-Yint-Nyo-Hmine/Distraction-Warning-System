@@ -44,7 +44,7 @@ The program is still an experiment
 
 
 ## Contact
-Contact me by email: yeyintnyohnine143@gmail.com - feel free to contact me!
+Contact me by email: yeyintnyohmine143@gmail.com - feel free to contact me!
 
 
 ## License
